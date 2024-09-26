@@ -1,5 +1,5 @@
 body {
-    font-size: 16px;
+    font-size: 16.5px;
     font-family: Comic Sans MS;
     padding: 50px 0;
     display: -webkit-box;
@@ -106,7 +106,7 @@ ul {
 }
 
 a.certified {
-  color: black;
+  color: blue;
   cursor: pointer;
 }
 
